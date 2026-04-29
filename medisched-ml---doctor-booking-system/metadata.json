@@ -1,0 +1,5 @@
+{
+  "name": "MediSched ML - Doctor Booking System",
+  "description": "An advanced doctor appointment booking system with ML-powered doctor recommendations, no-show predictions, and waiting time estimation.",
+  "requestFramePermissions": []
+}
